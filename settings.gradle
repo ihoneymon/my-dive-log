@@ -1,0 +1,24 @@
+/*
+// To declare projects as part of a multi-project build use the 'include' method
+include 'shared'
+include 'api'
+include 'services:webservice'
+*/
+
+rootProject.name = 'my-dive-log'
+
+/**
+ * 도메인, 레파지토리, 서비스
+ */
+include 'core'
+
+
+/**
+ * 웹: 외부 노출되는 API 및 WEB 지원
+ */
+include 'web'
+
+/**
+ * 백오피스
+ */
+include 'backoffice'

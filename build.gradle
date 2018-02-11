@@ -1,0 +1,14 @@
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+subprojects {
+    projects {
+        version = jar.version
+        group = "io.honeymon.spring.template"
+    }
+}

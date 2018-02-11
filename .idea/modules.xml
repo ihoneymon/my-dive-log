@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/backoffice/backoffice.iml" filepath="$PROJECT_DIR$/.idea/modules/backoffice/backoffice.iml" group="backoffice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/backoffice/backoffice_main.iml" filepath="$PROJECT_DIR$/.idea/modules/backoffice/backoffice_main.iml" group="backoffice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/backoffice/backoffice_test.iml" filepath="$PROJECT_DIR$/.idea/modules/backoffice/backoffice_test.iml" group="backoffice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/core.iml" group="core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/core_main.iml" group="core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/core/core_test.iml" group="core" />
+      <module fileurl="file://$PROJECT_DIR$/my-dive-log.iml" filepath="$PROJECT_DIR$/my-dive-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/my-dive-log_main.iml" filepath="$PROJECT_DIR$/.idea/modules/my-dive-log_main.iml" group="my-dive-log" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/my-dive-log_test.iml" filepath="$PROJECT_DIR$/.idea/modules/my-dive-log_test.iml" group="my-dive-log" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web.iml" group="web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web_main.iml" group="web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web_test.iml" group="web" />
+    </modules>
+  </component>
+</project>
